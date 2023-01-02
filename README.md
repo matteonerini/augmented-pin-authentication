@@ -16,3 +16,7 @@ The `dataset` folder contains 12 datasets obtained by 12 different students. Eac
 
 * each row is a sampled digit.
 * each column is a feature: the first is the pressed digit and the following are motion sensor values.
+
+The `PIN_authentication.ipynb` Jupiter Notebook contains the code to replicate the results in the paper.
+
+The files `rocMat.mat` and `times.mat` have been obtained throguh `PIN_authentication.ipynb` and are attached for an easier replication of the figures.
