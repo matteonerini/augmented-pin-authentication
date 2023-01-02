@@ -4,7 +4,7 @@ This code package is related to the paper:
 
 Nerini, M.; Favarelli, E.; Chiani, M. [Augmented PIN Authentication through Behavioral Biometrics](https://www.mdpi.com/1424-8220/22/13/4857). Sensors 2022, 22, 4857. https://doi.org/10.3390/s22134857
 
-If you use this code or any modified part of it, please cite our original paper.
+If you use this code or any modified part of it, please cite our paper.
 
 ## Abstract
 
@@ -12,7 +12,7 @@ Personal Identification Numbers (PINs) are widely used today for user authentica
 
 ## Content of Code Package
 
-The `dataset` folder contains 12 datasets obtained by 12 different students. Each dataset is a .csv file representing a 470 x 17 matrix in which:
+The `dataset` folder contains 12 datasets obtained by 12 different students. Each dataset is a .txt file representing a 470 x 17 matrix in which:
 
 * each row is a sampled digit.
 * each column is a feature: the first is the pressed digit and the following are motion sensor values.
