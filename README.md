@@ -2,7 +2,7 @@
 
 This code package is related to the paper:
 
-M. Nerini, E. Favarelli and M. Chiani, "[Augmented PIN Authentication through Behavioral Biometrics](https://www.mdpi.com/1424-8220/22/13/4857)," Sensors, 2022.
+M. Nerini, E. Favarelli, and M. Chiani, "[Augmented PIN Authentication through Behavioral Biometrics](https://www.mdpi.com/1424-8220/22/13/4857)," Sensors, 2022.
 
 If you use this code or any modified part of it, please cite our paper.
 
